@@ -1,0 +1,23 @@
+{
+  "name": "desafio-express",
+  "version": "1.0.0",
+  "main": "desafio3Express.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":  "nodemon desafio3Express.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Relaxforever/desafio-express.git"
+  },
+  "author": "Fidel Caicedo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Relaxforever/desafio-express/issues"
+  },
+  "homepage": "https://github.com/Relaxforever/desafio-express#readme",
+  "description": "",
+  "dependencies": {
+    "nodemon": "^2.0.18"
+  }
+}
